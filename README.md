@@ -1,2 +1,2 @@
 # Note-Keeper-Project
-Created with CodeSandbox
+This is a Note keeping website where you can keep your notes.
